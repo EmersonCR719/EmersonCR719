@@ -45,6 +45,7 @@
 
 <h3 align="left">GitHub Contribution Graph:</h3>
 <p align="left">
-    <img src="https://activity-graph.herokuapp.com/graph?username=EmersonCR719&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" width="100%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=EmersonCR719&theme=github-dark" alt="GitHub Contribution Graph" width="100%"/>
 </p>
+
 
