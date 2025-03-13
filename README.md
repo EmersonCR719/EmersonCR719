@@ -47,3 +47,4 @@
 <p align="left">
     <img src="https://activity-graph.herokuapp.com/graph?username=EmersonCR719&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" width="100%"/>
 </p>
+
