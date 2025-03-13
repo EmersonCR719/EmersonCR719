@@ -32,7 +32,7 @@
 </p>
 
 ---
-
+<!--
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=EmersonCR719&show_icons=true&theme=dark" alt="GitHub Stats" width="50%"/>
@@ -42,6 +42,13 @@
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonCR719&layout=compact&theme=dark" alt="Top Languages" width="50%"/>
 </p>
+-->
+<h3 align="left">GitHub Stats & Top Languages:</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=EmersonCR719&show_icons=true&theme=dark" alt="GitHub Stats" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonCR719&layout=compact&theme=dark" alt="Top Languages" width="45%"/>
+</div>
+
 
 <h3 align="left">GitHub Contribution Graph:</h3>
 <p align="left">
