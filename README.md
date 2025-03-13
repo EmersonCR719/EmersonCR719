@@ -35,15 +35,15 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=emersonalbornoz&show_icons=true&theme=dark" alt="GitHub Stats" width="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=EmersonCR719&show_icons=true&theme=dark" alt="GitHub Stats" width="50%"/>
 </p>
 
 <h3 align="left">Top Languages:</h3>
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emersonalbornoz&layout=compact&theme=dark" alt="Top Languages" width="50%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmersonCR719&layout=compact&theme=dark" alt="Top Languages" width="50%"/>
 </p>
 
 <h3 align="left">GitHub Contribution Graph:</h3>
 <p align="left">
-    <img src="https://activity-graph.herokuapp.com/graph?username=emersonalbornoz&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" width="100%"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=EmersonCR719&theme=github-dark&hide_border=true" alt="GitHub Contribution Graph" width="100%"/>
 </p>
